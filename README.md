@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studyingWeb Development at the Copenhagen School of Design adn Technology.\
+🎓 &nbsp;I'm currently studying Web Development at the Copenhagen School of Design adn Technology.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at hi@bence.cz! I'll try to respond as soon as I can.\
 
