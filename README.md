@@ -1,12 +1,3 @@
- ## 👋 &nbsp;Hey there! I'm Bence
-
- 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✉️ &nbsp;You can shoot me an email at hi@bence.cz! I'll try to respond as soon as I can.
-
-
-### 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
